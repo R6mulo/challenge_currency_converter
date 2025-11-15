@@ -1,4 +1,4 @@
-package com.r6mulo.currency.model;
+package br.com.r6mulo.currencyConverter.model;
 
 public class ConversionResult {
     private final double result;

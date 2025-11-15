@@ -1,4 +1,4 @@
-package com.r6mulo.currency.model;
+package br.com.r6mulo.currencyConverter.model;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

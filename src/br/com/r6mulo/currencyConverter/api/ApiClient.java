@@ -1,4 +1,4 @@
-package com.r6mulo.currency.api;
+package br.com.r6mulo.currencyConverter.api;
 
 import java.io.IOException;
 import java.net.URI;

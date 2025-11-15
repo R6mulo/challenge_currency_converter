@@ -1,11 +1,10 @@
-package com.r6mulo.currency.service;
+package br.com.r6mulo.currencyConverter.service;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
-import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import com.r6mulo.currency.api.ApiClient;
-import com.r6mulo.currency.model.ConversionResult;
+import br.com.r6mulo.currencyConverter.api.ApiClient;
+import br.com.r6mulo.currencyConverter.model.ConversionResult;
 
 import java.io.IOException;
 import java.util.Collections;

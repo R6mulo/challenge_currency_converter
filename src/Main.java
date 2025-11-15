@@ -1,7 +1,7 @@
-import com.r6mulo.currency.api.ApiClient;
-import com.r6mulo.currency.model.ConversionHistory;
-import com.r6mulo.currency.model.ConversionResult;
-import com.r6mulo.currency.service.CurrencyService;
+import br.com.r6mulo.currencyConverter.api.ApiClient;
+import br.com.r6mulo.currencyConverter.model.ConversionHistory;
+import br.com.r6mulo.currencyConverter.model.ConversionResult;
+import br.com.r6mulo.currencyConverter.service.CurrencyService;
 
 import java.text.NumberFormat;
 import java.util.Locale;
